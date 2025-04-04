@@ -15,15 +15,15 @@ public class Departement {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
+   // public void setId(int id) {
+     //   this.id = id;
+    //77}
 
     public String getName() {
         return name;
     }
-
-    public void setName(String name) {
+`
+   // public void setName(String name) {
         this.name = name;
     }
     String name;
